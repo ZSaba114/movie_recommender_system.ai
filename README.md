@@ -6,9 +6,11 @@ L’application recommande des films similaires à celui que vous sélectionnez 
 ---
 
 ## 🖼️ Aperçu (Screenshots)
-
+      screenshot 1
 ![Screenshot 1](screenshots/s1.png)  
+      screenshot 2
 ![Screenshot 2](screenshots/s2.png)  
+      screenshot 3
 ![Screenshot 3](screenshots/s3.png)
 
 ## 🛠️ Technologies utilisées
